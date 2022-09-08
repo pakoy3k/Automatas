@@ -1,0 +1,26 @@
+Teórica,Práctica Miércoles,Lab Presentado,Lab Entregado
+"Introducción (Torres Axiomaticas, Arquitecturas comp y su relacion lenguajes, paradigmas, features de leng de programación)
+ver https://www.youtube.com/watch?v=wSdV1M7n4gQ","Herramientas
+-introducción a la practica
+-Deno y TypeScript",,
+"Análisis Léxico:
+Expresiones regulares
+Automatas Finitos",práctica,1: Autómatas,
+"Analisis Lexico:
+Lex y flex",práctica,2: Lexers,
+"Análisis Sintáctico: introducción
+Gramaticas, derivaciones",práctica,,1 (13/4)
+"Análisis Sintáctico:  
+LL(1), Primero(), Siguienete(), Tabla Parsing",práctica,3: parser recursivo descendiente,2 (20/4)
+"Analisis Sintactico (Partes 1, 2, 3)",práctica,,
+"Análisis Sintáctico: Teórico LR Simple,LR Canonico,LALR",práctica,4: parser ll1,
+"Análisis Sintáctico: Generadores de analizadores sintacticos
+Interpretes REPL",práctica,5: intérprete compicode,3 (4/5)
+Análisis Semantico ,FERIADO,,4 (16/5)
+práctica,FERIADO,6: intérprete 3 addr code,
+Generación IR,clase de consulta lab 5 y 6,,5 (30/5)
+Generación de Código,práctica,7: compilador 3addr a pcode,6 (8/6)
+Genenración Codigo ,clase de consulta lab 7,,
+FERIADO,práctica,8: antlr->3addr code,lab 7 (22/6)
+LSP,práctica,,
+Microparser combinator,práctica,TP final,8 (7/5/2022)

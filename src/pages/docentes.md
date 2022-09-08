@@ -1,0 +1,6 @@
+- Prof.: Mariano Méndez 
+    - marianomendez@fi.uba.ar
+    - github.com/mendezmariano
+- Ayudante: José Ignacio Sbruzzi
+    - jsbruzzi@fi.uba.ar
+    - github.com/jisbruzzi

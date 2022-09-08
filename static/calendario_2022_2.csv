@@ -1,0 +1,42 @@
+Fecha teórica,Tema teórica,Fecha de práctica,Tema práctica,Lab Presentado,Lab Entregado
+22/8,"Introducción (Torres Axiomaticas, Arquitecturas comp y su relacion lenguajes, paradigmas, features de leng de programación)
+ver https://www.youtube.com/watch?v=wSdV1M7n4gQ",24/8,"Herramientas
+-introducción a la practica
+-intro a los labs
+- Reglamento / criterios de aprobación
+-Deno y TypeScript",,
+29/8,"Análisis Léxico:
+Expresiones regulares
+Automatas Finitos",31/8,"Intro teórica lab
+Ejercicio 00
+Entrega ej 01",1: Autómatas,
+5/9,"Analisis Lexico:
+Lex y flex",7/9,"Intro teórica lab
+Ejercicio 00
+Entrega ej 01",2: Lexers,1: Autómatas
+12/9,"Análisis Sintáctico: introducción
+Gramaticas, derivaciones",14/9,"Ej adicionales
+Consultas",,
+19/9,"Análisis Sintáctico:  
+LL(1), Primero(), Siguienete(), Tabla Parsing",21/9,"Intro teórica lab
+Ejercicio 00
+Entrega ej 01",3: Parser desc rec LUA,2: Lexers
+26/9,"Analisis Sintactico (Partes 1, 2, 3)",28/9,Consultas,,
+3/10,"Análisis Sintáctico: Teórico LR Simple,LR Canonico,LALR",5/10,"Intro teórica lab
+Ejercicio 00
+Entrega ej 01",4: parseo LL1,3: Parser desc rec LUA
+10/10,FERIADO,12/10,"Intro teórica lab
+Ejercicio 00
+Entrega ej 01",5: intérprete,
+17/10,[Definiendo],19/10,"Intro teórica lab
+Ejercicio 00
+Entrega ej 01",6: lex-yacc,4: parseo LL1
+24/10,[Definiendo],26/10,Consultas,,5: intérprete
+31/10,[Definiendo],2/11,"Intro teórica lab
+Ejercicio 00
+Entrega ej 01",7: jsonasm,
+7/11,[Definiendo],9/11,Intro TP final,,6: lex-yacc
+14/11,[Definiendo],16/11,TP final,,7: jsonasm
+21/11,FERIADO,23/11,TP final,,
+28/11,[Definiendo],30/11,TP final,,
+5/12,[Definiendo],7/12,TP final,,
