@@ -106,4 +106,18 @@ module.exports = {
       crossorigin: 'anonymous',
     },
   ],
+  plugins:[
+    [
+      '@docusaurus/plugin-client-redirects',
+      {
+        redirects: [
+          // /docs/oldDoc -> /docs/newDoc
+          {
+            to: '/docs/teoricas/intro',
+            from: '/',
+          },
+        ],
+      }
+    ]
+  ]
 };
