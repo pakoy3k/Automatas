@@ -8,7 +8,7 @@ module.exports = {
   title: 'Lenguajes y Compiladores',
   tagline: 'Sitio de la materia Lenguajes y Compiladores',
   url: 'https://jisbruzzi.github.io',
-  baseUrl: '/',
+  baseUrl: '/teo/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
