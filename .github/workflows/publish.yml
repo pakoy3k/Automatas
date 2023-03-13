@@ -16,6 +16,8 @@ jobs:
   build:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
+    environment:
+          NODE_OPTIONS: --openssl-legacy-provider
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
@@ -28,8 +30,6 @@ jobs:
       # Runs a single command using the runners shell
       - name: build
         run: yarn build 
-        environment:
-          NODE_OPTIONS: --openssl-legacy-provider
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.1
         with:
