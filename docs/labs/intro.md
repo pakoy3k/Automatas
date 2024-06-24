@@ -1,1 +1,0 @@
-A partir del primer cuatrimestre 2023, esta página web se utilizará para contenido de la teórica
